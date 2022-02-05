@@ -36,15 +36,84 @@ Evaluation
 
 1.  _Evaluation Criteria_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily Grade\* | 25% |
-| Five Lesson Quizzes\*\* | 25% |
-| Two Interview Tests | 12% |
-| One-Hour Exam | 12% |
-| Vocabulary, Grammar, Kanji Quizzes\*\*\* | 10% |
-| Workbook Homework | 10% |
-| Projects | 6% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Grade\*
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five Lesson Quizzes\*\*
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Interview Tests
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-Hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary, Grammar, Kanji Quizzes\*\*\*
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workbook Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projects
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*Three lowest daily scores will be dropped at the end of the term.
 
@@ -53,24 +122,194 @@ Evaluation
 \*\*\*Two lowest scores will be dropped at the end of the term.
 
 6.  _Grading Scale_
-| &nbsp; | A=94% and above | A-=93.99–90% |
-| B+=89.99–87% | B=86.99–84% | B-=83.99–80% |
-| C+=79.99–77% | C=76.99–74% | C-=73.99–70% |
-| D+=69.99–67% | D=66.99–64% | D-=63.99–60% |
-| F=below 60% | &nbsp; |     
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+A=94% and above
+{{< tdclose >}}
+{{< tdopen >}}
+A-=93.99–90%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+=89.99–87%
+{{< tdclose >}}
+{{< tdopen >}}
+B=86.99–84%
+{{< tdclose >}}
+{{< tdopen >}}
+B-=83.99–80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+=79.99–77%
+{{< tdclose >}}
+{{< tdopen >}}
+C=76.99–74%
+{{< tdclose >}}
+{{< tdopen >}}
+C-=73.99–70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D+=69.99–67%
+{{< tdclose >}}
+{{< tdopen >}}
+D=66.99–64%
+{{< tdclose >}}
+{{< tdopen >}}
+D-=63.99–60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F=below 60%
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 9.  _Daily Grade_
 
 In the drill sessions, students will receive a daily grade based on the performance evaluated with the following criteria:
 
-| Grade | PERFORMANCE | PREPARATION | PARTICIPATION/CONTRIBUTION |
-| --- | --- | --- | --- |
-| 10 | Excellent/near perfect | Excellent | Very active/excellent |
-| 9 | Strong/minor errors | Good | Consistent |
-| 8 | Fair but needs improvement | Adequate | Adequate but needs improvement |
-| 7 | Weak/with mistakes in major areas | Some | Sporadic |
-| 6 | Unsatisfactory | Inadequate | Infrequent |
-| 5 | Present but very poor | None | Seldom |
-| 0 || {{< td-colspan 4 >}}Absent{{< /td-colspan >}} |||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Grade
+{{< thclose >}}
+{{< thopen >}}
+PERFORMANCE
+{{< thclose >}}
+{{< thopen >}}
+PREPARATION
+{{< thclose >}}
+{{< thopen >}}
+PARTICIPATION/CONTRIBUTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent/near perfect
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+Very active/excellent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Strong/minor errors
+{{< tdclose >}}
+{{< tdopen >}}
+Good
+{{< tdclose >}}
+{{< tdopen >}}
+Consistent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fair but needs improvement
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate but needs improvement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Weak/with mistakes in major areas
+{{< tdclose >}}
+{{< tdopen >}}
+Some
+{{< tdclose >}}
+{{< tdopen >}}
+Sporadic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Unsatisfactory
+{{< tdclose >}}
+{{< tdopen >}}
+Inadequate
+{{< tdclose >}}
+{{< tdopen >}}
+Infrequent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Present but very poor
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+Seldom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Absent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 12.  _Attendance Policy_
     1.  Attend all sessions. Because of the cumulative nature of language learning, it is essential that you attend all sessions and keep up with the course work on a daily basis. Please follow the online daily schedule and come to class well-prepared.
